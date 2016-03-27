@@ -2,7 +2,7 @@ MinGW Win32 Application
 
 This application is an example Windows GUI application, written to demonstrate
 how to build Win32 GUI applications with MinGW. It accompanies an article from
-my web site, which is located at
+a site, which is located at
 http://www.transmissionzero.co.uk/computing/win32-apps-with-mingw/.
 
 To build the application on a Windows machine, simply extract the contents of
